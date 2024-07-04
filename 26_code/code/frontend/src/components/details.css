@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .Formsttyle {
+      margin: 50px 10px; /* Adjust margin for smaller screens */
+    }
+  
+    .buttonContainerStyle {
+      flex-direction: row; /* Align buttons horizontally on smaller screens */
+    }
+  
+    .buttonStyle {
+      width: 48%; /* Adjust button width for smaller screens */
+      margin-right: 2%; /* Add some spacing between buttons */
+    }
+  }
